@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace TestLib
 {
-    public class Class1
+    public class TestLib
     {
+        public void printHello() {
+            
+        }
     }
 }
