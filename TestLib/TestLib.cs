@@ -8,8 +8,8 @@ namespace TestLib
 {
     public class TestLib
     {
-        public void printHello() {
-            
+        public void printHello(string msg) {
+            Console.WriteLine(msg);
         }
     }
 }
