@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>$id$</id>
-    <version>3.0.0</version>
+    <version>5.0.0</version>
     <title>dll_files versi ke 2</title>
     <authors>lingga</authors>
     <owners>lingga</owners>
@@ -11,7 +11,7 @@
     <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>lib</description>
-    <releaseNotes>penambahan modul baru</releaseNotes>
+    <releaseNotes>lingga ganteng</releaseNotes>
     <copyright>Copyright 2018</copyright>
   </metadata>
 </package>

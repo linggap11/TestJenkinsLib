@@ -1,0 +1,7 @@
+c:\users\administrator\source\repos\TestLib\TestLib\bin\Debug\TestLib.dll
+c:\users\administrator\source\repos\TestLib\TestLib\bin\Debug\TestLib.pdb
+c:\users\administrator\source\repos\TestLib\TestLib\obj\Debug\TestLib.dll
+c:\users\administrator\source\repos\TestLib\TestLib\obj\Debug\TestLib.pdb
+C:\Users\Administrator\source\repos\TestLib\TestLib\bin\Debug\log4net.dll
+C:\Users\Administrator\source\repos\TestLib\TestLib\bin\Debug\log4net.xml
+C:\Users\Administrator\source\repos\TestLib\TestLib\obj\Debug\TestLib.csprojResolveAssemblyReference.cache
