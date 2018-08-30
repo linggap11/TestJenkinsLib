@@ -4,4 +4,6 @@ c:\users\administrator\source\repos\TestLib\TestLib\obj\Debug\TestLib.dll
 c:\users\administrator\source\repos\TestLib\TestLib\obj\Debug\TestLib.pdb
 C:\Users\Administrator\source\repos\TestLib\TestLib\bin\Debug\log4net.dll
 C:\Users\Administrator\source\repos\TestLib\TestLib\bin\Debug\log4net.xml
-C:\Users\Administrator\source\repos\TestLib\TestLib\obj\Debug\TestLib.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\TestLib\TestLib\obj\Debug\TestLib.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\TestLib\TestLib\obj\Debug\TestLib.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TestLib\TestLib\obj\Debug\TestLib.csproj.CopyComplete
